@@ -1,4 +1,4 @@
-# AtliQ HR Analytics - PowerBI
+# AtliQ HR Analytics - Power BI
 In this Data Analysis project, I have studied a dataset related to the HR department of a company. I have analyzed their employees' presence and leave data. 
 And, I created a PowerBI dashboard for Data Visualization.
 
@@ -58,4 +58,4 @@ The HR department can track various trends such as higher SL % and higher WFH % 
 - Ayanna Atkins took 6 SLs and had the highest overall SL% of 18% among its peers. Also, she had the second lowest overall presence of 58.9%.
 - Gregory Carr had the lowest overall presence of 52.4% in these three months.
 - Kaylah Schultz took 16 PLs and had the highest overall PL% of 41% among its peers.
-- Overall sick leave count is 48 and the privilege leave count is 153 in these three months.
+- The overall sick leave count is 48 and the privilege leave count is 153 in these three months.
