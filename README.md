@@ -1,4 +1,4 @@
-# AtliQ HR Analytics - Power BI
+# HR Analytics - Power BI
 
 In this Data Analysis project, I have studied a dataset related to the HR department of a company. I have analyzed their employees' presence and leave data. 
 And, I created a Power BI dashboard for Data Visualization.
