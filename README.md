@@ -5,7 +5,6 @@ And, I created a Power BI dashboard for Data Visualization.
 
 - Link to [Portfolio Website](https://codebasics.io/portfolio/Amogh-Sawant)
 - Link to [Live Dashboard](https://www.novypro.com/project/hr-analytics-115)
-- Link to [Presentation Video]()
 
 ## Problem statement
 
