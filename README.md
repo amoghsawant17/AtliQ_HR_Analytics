@@ -1,8 +1,4 @@
 # HR Analytics - Power BI
-
-In this Data Analysis project, I have studied a dataset related to the HR department of a company. I have analyzed their employees' presence and leave data. 
-And, I created a Power BI dashboard for Data Visualization.
-
 - Link to [Portfolio Website](https://codebasics.io/portfolio/Amogh-Sawant)
 - Link to [Live Dashboard](https://www.novypro.com/project/hr-analytics-115)
 
