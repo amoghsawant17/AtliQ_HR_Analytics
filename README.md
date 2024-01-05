@@ -21,7 +21,7 @@ The HR department can track various trends such as higher SL % and higher WFH % 
 ## Presence Insights
 
 <p align="center">
-    <img src='https://github.com/amoghsawant17/AtliQ_HR_Analytics/blob/main/view_snaps/presence_insights.png' width="600">
+    <img src='https://github.com/amoghsawant17/HR_Analytics/blob/main/view_snaps/presence_insights.png' width="600">
 </p>
 
 ## Support View
