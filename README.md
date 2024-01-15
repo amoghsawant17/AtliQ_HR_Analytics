@@ -42,7 +42,7 @@ The HR department can track various trends such as higher SL % and higher WFH % 
     <img src='https://github.com/amoghsawant17/AtliQ_HR_Analytics/blob/main/view_snaps/snap_attribution.png' width="600">
 </p>
 
-## Problem Insights
+## Some Important insights from the Dashboard
 
 - Presence % = Presence days/ Total working days and overall presence % is 91.8%.
 - (Work From Home (WFH) % = WFH days/ Presence days) is 10% and (Sick Leave (SL %) = SL days/ Presence days) is 1.2%.
@@ -52,12 +52,12 @@ The HR department can track various trends such as higher SL % and higher WFH % 
 - In a daily trend, the overall Presence % is higher on Mondays i.e., around 93%, and lower on Fridays i.e., around 90%.
 - In a daily trend, overall WFH % is higher on Fridays i.e., 13%, and lower on Tuesdays i.e., around 8%.
 - In a daily trend, overall SL % is higher on Mondays i.e., 1.7%, and lower on Fridays i.e., around 0.8%.
-- There are 7 people who worked from home throughout these three months.
-- There are 22 people who had a presence % of 100% and who did not take any leave in these three months.
+- 7 people worked from home throughout these three months.
+- 22 people had a presence % of 100% and did not take any leave in these three months.
 - Ayanna Atkins took 6 SLs and had the highest overall SL% of 18% among its peers. Also, she had the second lowest overall presence of 58.9%.
 - Gregory Carr had the lowest overall presence of 52.4% in these three months.
 - Kaylah Schultz took 16 PLs and had the highest overall PL% of 41% among its peers.
-- The overall sick leave count is 48 and the privilege leave count is 153 in these three months.
+- The overall sick leave count is 48 and the privileged leave count is 153 in these three months.
 
 ## Potential Decisions
 
@@ -70,7 +70,7 @@ The HR department can track various trends such as higher SL % and higher WFH % 
 - Understand the reasons behind Gregory Carr's low presence and address any potential concerns or challenges he might be facing.
 
 #### Promote Work-Life Balance:
-- Analyze the overall leave count and patterns to assess if employees are taking enough time off for rest and relaxation. Promote a healthy work-life balance to prevent burnout.
+- Analyze the overall leave count and patterns to assess if employees are taking enough time off for rest. Promote a healthy work-life balance to prevent burnout.
 
 #### Encourage Remote Work:
 - Given that WFH percentages vary, assess the reasons why some months have higher WFH percentages. Encourage remote work policies where applicable to improve overall employee satisfaction and productivity.
